@@ -1,7 +1,7 @@
 ## Telegram Bot (Python)
 
 ### Setup
-
+Редактор кода - Cursor AI
 1. Create and get your bot token from BotFather in Telegram.
 2. Create `.env` with your token (or copy `env.sample` to `.env`):
 
